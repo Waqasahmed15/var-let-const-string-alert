@@ -47,7 +47,7 @@ alert(massage)
 
                // 4th//
 
-const studentname = ("Waqas Ahmed")
+let studentname = ("Waqas Ahmed")
 alert(studentname)
 
 let studentage = ("my age is 29")
